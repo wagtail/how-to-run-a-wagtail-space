@@ -10,6 +10,8 @@ The organizers of these events are providing this document as a set of best prac
 
 ## Website
 
+The source for the website of the original Wagtail Space (held in Arnhem, the Netherlands) was generously donated by Four Digits, and is available at https://github.com/fourdigits/wagtailspace.
+
 ## Registration
 
 ## Communications
