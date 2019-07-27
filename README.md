@@ -8,7 +8,14 @@ The organizers of these events are providing this document as a set of best prac
 
 ## Code of Conduct
 
+Wagtail Space events are required to have, publicise, and enforce a code of conduct that seeks to ensure the event is as safe and inclusive for all participants as possible.
+
 Here's an [example code of conduct](example-coc.md), which you're welcome to adapt for your event.
+
+We recommend:
+- Posting it on the website prior to opening registration
+- Emailing out a summary with a link to the full thing a few days prior to the event
+- Mention the high points during the conference opening, say where to find the written version, and remind people how they can get help
 
 ## Website
 
