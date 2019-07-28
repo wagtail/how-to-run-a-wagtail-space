@@ -24,3 +24,4 @@ The source for the website of the original Wagtail Space (held in Arnhem, the Ne
 
 ## Venue Considerations
 
+Finding the right venue can make all the difference in having an event that runs smoothly. Wagtail Spaces have been held in company offices and Universities. Having an organizer who is a member of the hosting organization is a good idea: they will likely be familiar with the layout of the venue, the technology available, and other resources available to keep things running smoothly.
