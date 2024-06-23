@@ -19,7 +19,21 @@ We suggest:
 
 ## Website
 
-The source for the website of the original Wagtail Space (held in Arnhem, the Netherlands) was generously donated by Four Digits, and is available at https://github.com/fourdigits/wagtailspace.
+The source for the website of the original Wagtail Space (held in Arnhem, the Netherlands) was generously donated by Four Digits, and is available at https://github.com/fourdigits/wagtailspace. There are several items on the to-do list:
+
+* Email confirmation after attendee registration
+* Upgrade to latest version of Wagtail
+
+## Promotion
+
+Promotion is essential for the success of any Wagtail Space. Several avenues can be used to promote the event:
+
+* Emailing past attendees
+* Social media channels: Torchbox, Wagtail, and organizer channels
+* Python Weekly
+* Django Weekly
+* The wagtail.org website and github.com/wagtail
+* Local user groups in the destination city, such as [PhillyPUG in Philadelphia](https://meetup.com/phillypug/)
 
 ## Registration
 
